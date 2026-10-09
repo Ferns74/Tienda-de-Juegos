@@ -1,0 +1,33 @@
+C:\Users\Fernando\Documents\Proyectos Programacion III\Tienda de juegos\Dominio\bin\Debug\Dominio.exe.config
+C:\Users\Fernando\Documents\Proyectos Programacion III\Tienda de juegos\Dominio\bin\Debug\Dominio.exe
+C:\Users\Fernando\Documents\Proyectos Programacion III\Tienda de juegos\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Fernando\Documents\Proyectos Programacion III\Tienda de juegos\Dominio\bin\Debug\Dominio.xml
+C:\Users\Fernando\Documents\Proyectos Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.vbproj.AssemblyReference.cache
+C:\Users\Fernando\Documents\Proyectos Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.Resources.resources
+C:\Users\Fernando\Documents\Proyectos Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.vbproj.GenerateResource.cache
+C:\Users\Fernando\Documents\Proyectos Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.vbproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Proyectos Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.exe
+C:\Users\Fernando\Documents\Proyectos Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.xml
+C:\Users\Fernando\Documents\Proyectos Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Fernando\Documents\Programacion III\Tienda de juegos\Dominio\bin\Debug\Dominio.exe.config
+C:\Users\Fernando\Documents\Programacion III\Tienda de juegos\Dominio\bin\Debug\Dominio.exe
+C:\Users\Fernando\Documents\Programacion III\Tienda de juegos\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Fernando\Documents\Programacion III\Tienda de juegos\Dominio\bin\Debug\Dominio.xml
+C:\Users\Fernando\Documents\Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.vbproj.AssemblyReference.cache
+C:\Users\Fernando\Documents\Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.Resources.resources
+C:\Users\Fernando\Documents\Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.vbproj.GenerateResource.cache
+C:\Users\Fernando\Documents\Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.vbproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.exe
+C:\Users\Fernando\Documents\Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.xml
+C:\Users\Fernando\Documents\Programacion III\Tienda de juegos\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Salvador Jaime\Documents\Programacion III\examen\Tienda de juegos\Dominio\bin\Debug\Dominio.exe.config
+C:\Users\Salvador Jaime\Documents\Programacion III\examen\Tienda de juegos\Dominio\bin\Debug\Dominio.exe
+C:\Users\Salvador Jaime\Documents\Programacion III\examen\Tienda de juegos\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Salvador Jaime\Documents\Programacion III\examen\Tienda de juegos\Dominio\bin\Debug\Dominio.xml
+C:\Users\Salvador Jaime\Documents\Programacion III\examen\Tienda de juegos\Dominio\obj\Debug\Dominio.vbproj.AssemblyReference.cache
+C:\Users\Salvador Jaime\Documents\Programacion III\examen\Tienda de juegos\Dominio\obj\Debug\Dominio.Resources.resources
+C:\Users\Salvador Jaime\Documents\Programacion III\examen\Tienda de juegos\Dominio\obj\Debug\Dominio.vbproj.GenerateResource.cache
+C:\Users\Salvador Jaime\Documents\Programacion III\examen\Tienda de juegos\Dominio\obj\Debug\Dominio.vbproj.CoreCompileInputs.cache
+C:\Users\Salvador Jaime\Documents\Programacion III\examen\Tienda de juegos\Dominio\obj\Debug\Dominio.exe
+C:\Users\Salvador Jaime\Documents\Programacion III\examen\Tienda de juegos\Dominio\obj\Debug\Dominio.xml
+C:\Users\Salvador Jaime\Documents\Programacion III\examen\Tienda de juegos\Dominio\obj\Debug\Dominio.pdb
