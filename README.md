@@ -5,8 +5,8 @@ Ejecutar los query en sql server
 En los archivos FrmRecibo.vb y FormLogin.vb poner la cadena de conexión de tu sql server 
 
 ## Herramientas 
-Visual Studio 
-SQL Server Management
+- Visual Studio 
+- SQL Server Management
 
 Este proyecto fue realizado con fines académicos
 PD: el apartado de consolas esta medio bug y abre 2 forms 
